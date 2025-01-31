@@ -11,8 +11,8 @@ import AppBar from './components/main_components/app_bar'
 function App() {
   const windows = [
     { height: "15vw", width: "15vw", title: 'CLICK HERE FOR BITCOIN!', gif: starlight },
-    { height: "15vw", width: "15vw", title: ':3', gif: starlight_2 },
-    { height: "10vw", width: "15vw", title: 'Ti Amo Fati Mi Amor', gif: starlight_3 },
+    { height: "15vw", width: "15vw", title: 'DOCKER GRAWWW', gif: starlight_2 },
+    { height: "10vw", width: "15vw", title: 'You got hacked lol', gif: starlight_3 },
     { height: "20vw", width: "15vw", title: 'VDOM goty', gif: starlight_4, }
   ];
 
