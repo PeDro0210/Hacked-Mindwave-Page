@@ -1,0 +1,14 @@
+.app-bar {
+  position: fixed;
+  top: 0;
+  transform: translateX(-50%);
+}
+
+
+.special-bar {
+  width: 100vw;
+  background: linear-gradient(#3f36cd, #e77bcb);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
